@@ -1,4 +1,4 @@
-# MAGiC 2024 - PHP Workshop
+# OCEAN Feb APIs event
 
 Welcome to the PHP workshop!
 
